@@ -1,0 +1,32 @@
+body{
+	color:blue;
+    font-family: Arial;
+    background: pink;
+}
+
+p{
+	textalign: left;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+}
+.first {
+	text-align: right;
+}
+
+h2{
+	color;blue;
+}
+
+.seconds {
+	text-align: center;
+	color: yellow;
+}
+.stecy{
+	text-align:left;
+	color: green;
+
+}
+
