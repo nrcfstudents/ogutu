@@ -15,18 +15,51 @@ h1{
 .first {
 	text-align: right;
 }
-
 h2{
 	color;blue;
 }
 
-.seconds {
-	text-align: center;
-	color: yellow;
 }
 .stecy{
 	text-align:left;
 	color: green;
 
 }
-
+.tecy{
+	text-align: 
+	color:purple
+}
+.third{
+	   text-align: center;
+	color: red;
+}
+.ogutu{
+	text-align: center;
+	color: red;
+}
+.fifth{
+	text-align: center;
+	color: red;
+}
+table,th,td {border:1px  solid red;
+             width:50%
+}
+.seven{
+	text-align: center;
+	color: red;
+}
+.bright{
+	   text-align: center;
+	   color: red;
+}
+.luke{
+	text-align: center;
+	color: red;
+}
+nav{
+	text-align: center;
+	justify-content: center;
+	padding: 100;
+	margin: 100;
+	font-weight:bolder;
+}
